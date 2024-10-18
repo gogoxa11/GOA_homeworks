@@ -1,0 +1,16 @@
+.parent {
+    width: 70%;
+    background-color: cyan;
+    
+}
+
+.child {
+    width: 50%; 
+    background-color: red;
+    font-size: 100px; 
+
+}
+.child p {
+    font-size: 20%;
+
+}

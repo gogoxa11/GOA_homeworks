@@ -1,0 +1,13 @@
+.parent-div{
+
+    font-size: 500px;
+}
+.text{
+
+    font-size: 50%;
+}
+.child-div{
+
+    height: 25%;
+    width: 25%;
+}
