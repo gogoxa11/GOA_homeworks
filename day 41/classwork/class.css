@@ -1,0 +1,30 @@
+#main1{
+    text-decoration: none;
+    background-color: black;
+    color: red;
+    transition: 0.5s;
+
+}
+#main1:hover{
+    text-decoration: underline;
+    color: greenyellow;
+    font-size: 50px;
+}
+
+
+#main2{
+    transition: 0.5s;
+}
+#main2:hover{
+    background-color: black;
+    color: cyan;
+    font-size: 50px;
+}
+
+#main3{
+    transition: 0.5s;
+}
+#main3:hover{
+    height: 250px;
+    width: 250px;
+}
