@@ -1,0 +1,23 @@
+table{
+    border: 3px solid blue;
+}
+th{
+    border: 3px solid blue;
+    background-color: greenyellow;
+}
+td{
+    border: 3px solid blue;
+    background-color: aqua;
+}
+td:nth-child(odd):hover {
+    background-color: grey; 
+}
+td:nth-child(even):hover {
+    background-color: lightblue; 
+}
+tr :nth-child(even):hover {
+    background-color: darkgray; 
+}
+tr :nth-child(odd):hover {
+    background-color: darkgray; 
+}
