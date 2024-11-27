@@ -1,0 +1,29 @@
+.main1:link{
+    color: blue;
+}
+.main2:hover{
+    background-color: black;
+    color: greenyellow;
+}
+.main3:visited{
+    color: purple;
+
+}
+
+.main4:hover{
+    background-color: gray;
+    color: red;
+}
+.main5:active{
+    background-color: gray;
+    font-size: larger;
+}
+.main6:hover{
+    color: darkgray;
+}
+.main7:hover{
+    text-decoration: underline;
+    color: red;
+    
+}
+

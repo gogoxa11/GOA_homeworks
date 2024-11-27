@@ -21,3 +21,6 @@ tr :nth-child(even):hover {
 tr :nth-child(odd):hover {
     background-color: darkgray; 
 }
+h1{
+    color: white;
+}
