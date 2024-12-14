@@ -1,0 +1,24 @@
+.parent-div {
+    background-color: red;
+    font-size: 500px;
+    width: 100%; 
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child-div {
+    background-color: blue;
+    font-size: 25%;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.child-paragraph {
+    font-size: 50%;
+    margin: 0;
+}
