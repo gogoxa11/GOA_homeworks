@@ -1,0 +1,15 @@
+#div1{
+    border: 10px solid red;
+        
+    padding: 20px 20px 20px 20px ;
+}
+#div2{
+    border: 7px solid blueviolet;
+        
+    padding:5px 10px 15px 20px ;
+}
+#div3{
+    border: 3px solid lightblue;
+        
+    padding:10px 20px 10px 15px ;
+}

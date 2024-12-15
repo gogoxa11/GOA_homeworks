@@ -1,0 +1,66 @@
+.ul1{
+    list-style-type: upper-roman;
+}
+.ul2 li{
+    list-style: none; 
+    background-image: url('python.png');
+    background-size: 10px 10px; 
+    background-repeat: no-repeat; 
+    background-position: 0 5px;
+    padding-left: 20px;
+}
+
+ #item1{
+    list-style-type: armenian;
+}
+#item2{
+    list-style-type: circle;
+}
+#item3{
+    list-style-type: decimal;
+}
+#item4{
+    list-style-type: decimal-leading-zero;
+}
+#item5{
+    list-style-type: disc;
+}
+#item6{
+    list-style-type: georgian;
+}
+#item7{
+    list-style-type: lower-alpha;
+}
+#item8{
+    list-style-type: lower-greek;
+}
+#item9{
+    list-style-type: lower-latin;
+}
+#item10{
+    list-style-type: lower-roman;
+}
+#item11{
+    list-style-type: none;
+}
+#item12{
+    list-style-type: square;
+}
+#item13{
+    list-style-type: upper-alpha;
+}
+#item14{
+    list-style-type: upper-latin;
+}
+#item15{
+    list-style-type: upper-roman;
+}
+#item16{
+    list-style-type: inherit;
+}
+#item17{
+    list-style-type: initial;
+}
+#item18{
+    list-style-type: unset;
+}
