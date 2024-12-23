@@ -1,0 +1,26 @@
+.lemon{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    border-radius: 125px 25px;
+    border: 3px white dashed;
+}
+.eggplant1{
+    width: 150px;
+    height: 150px;
+    background-color: greenyellow;
+    border-radius: 1500px 40px;
+}
+.eggplant2{
+    width: 150px;
+    height: 150px;
+    background-color: greenyellow;
+    border-radius: 40px 1500px;
+}
+.eggplant-parent{
+    width: 300px;
+    height: 450px;
+    background-color: blueviolet;
+    border-radius: 1500px 1500px 1000px 1000px;
+}
+
