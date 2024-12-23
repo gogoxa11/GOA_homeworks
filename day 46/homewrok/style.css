@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.example {
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #e0e0e0;
+    color: #333;
+    border-radius: 8px;
+}
+
+.margin-example {
+    margin: 50px auto;
+    background-color: #ffcccb;
+}
+
+.padding-example {
+    padding: 30px;
+    background-color: #add8e6;
+}
+
+.border-example {
+    border: 5px solid #4caf50;
+    background-color: #d1ffd6;
+}
