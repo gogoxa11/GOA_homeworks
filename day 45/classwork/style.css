@@ -1,0 +1,17 @@
+input[type = "text"]{
+    border: 3px dashed red;
+    outline: none;
+}
+input[type = "password"]{
+    border: 5px dotted blueviolet;
+    outline: none;
+}
+input[type = "email"]{
+    border: none;
+    outline: none;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: greenyellow;
+}

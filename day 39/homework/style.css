@@ -1,0 +1,26 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+}
+
+.monoton {
+    font-family: 'Monoton', cursive;
+    font-size: 28px;
+    text-transform: uppercase;
+}
