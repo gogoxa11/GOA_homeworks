@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.main-div{
+    height: 1715px;
+    width:715px;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+
+}
+.omlette{
+    margin-top: 0px;
+    margin-left: 57.5px;
+    margin-bottom: 0px;
+    margin-right: 57.5px;
+    border-radius: 15px;
+}
+.paragraph1{
+    color: #2e2d2b;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-left: 57.5px;
+    margin-bottom: 40px;
+}
+.paragraph2{
+    color: #5d5049;
+    font-weight: 500;
+    margin-left: 57.5px;
+    margin-bottom: 45px;
+    margin-right: 57.5px;
+    font-size: 16px;
+}
+.prep-time{
+    width: 600px;
+    height: 180px;
+    background-color: #fff7fc;
+    margin-left: 57.5px;
+    margin-bottom: 35px;
+    margin-right: 57.5px;
+    border-radius: 15px;
+    padding: 25px;
+}
+.paragraph3{
+    color: #763f5a;
+    font-size: 25px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+.unlist1{
+    color: #763f5a;
+    margin-left: 35px;
+}
+.s1{
+    color: black;
+    opacity: 80%;
+    font-weight: 600;
+    
+}
+.s2{
+    color: #45423f;
+    font-size: 16px;
+}
+.paragraph4{
+    color: #844b3f;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 57.5px;
+    margin-bottom: 30px;
+}
+.unlist2{
+    margin-left: 97.5px;
+    color: #763f5a;
+}
+.line-div{
+    width: 600px;
+    height: 1px;
+    background-color: #763f5a;
+    margin-top: 35px;
+    margin-left: 57.5px;
+    margin-bottom: 35px;
+    margin-right: 57.5px;
+}
+.unlist3{
+    list-style-type: decimal;
+    margin-left: 97.5px;
+    color: #763f5a;
+}
+.lastp1{
+    color: #45423f;
+    font-size: 16px;
+    margin-left: 57.5px;
+    margin-bottom: 35px;
+    margin-right: 57.5px;
+}
+.p1{
+    color: #45423f;
+    font-size: 16px;
+    margin-right: 245px;
+    margin-left: 57.5px;
+    
+    
+}
+.kcal1{
+    color: #844b3f;
+    font-size: 16px;
+    font-weight: 600
+    
+}
+.line-div3{
+    width: 600px;
+    height: 1px;
+    background-color: #763f5a;
+    margin-top: 20px;
+    margin-left: 57.5px;
+    margin-bottom: 20px;
+    margin-right: 57.5px;
+}
+.p2{
+    color: #45423f;
+    font-size: 16px;
+    margin-right: 260px;
+    margin-left: 57.5px;
+}
+.p3{
+    color: #45423f;
+    font-size: 16px;
+    margin-right: 255px;
+    margin-left: 57.5px;
+}
+.p4{
+    color: #45423f;
+    font-size: 16px;
+    margin-right: 280px;
+    margin-left: 57.5px;
+}
