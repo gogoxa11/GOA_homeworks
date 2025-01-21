@@ -1,0 +1,64 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f6d050;
+}
+.main-div{
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    width: 22%;
+    background-color: white;
+    border-radius: 30px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+}
+.img1{
+    width: 90%;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 17px;
+    margin-bottom: 0px;
+    margin-right: 22.5px;
+}
+.button1{
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 17px;
+    border: none;
+    border-radius: 5px;
+    background-color: #edcf5a;
+    font-weight: 600;
+    color: #5c410a;
+}
+.p1{
+    margin-left: 17px;
+    opacity: 80%;
+}
+.p2{
+    font-size: 20px;
+    margin-left: 17px;
+    font-weight: 700;
+}
+.p3{
+    opacity: 60%;
+    margin-left: 17px;
+}
+.p4{
+    font-weight: 800;
+}
+.img2{
+    width: 25px;
+    height: 25px;
+    margin-top: 13px;
+    margin-left: 17px;
+
+}
+.greg-hooper{
+    display: flex;
+    flex-direction: row;
+}
