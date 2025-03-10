@@ -1,0 +1,15 @@
+.interactive-div {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    transition: 1s;
+    
+}
+.interactive-div:hover {
+    transform: rotate(1480deg) ;
+    background-color: chocolate;
+}
+.interactive-div:active {
+    transform: rotate(-1480deg);
+    background-color: lightskyblue;
+}

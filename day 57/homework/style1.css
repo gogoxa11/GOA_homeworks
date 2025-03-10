@@ -1,0 +1,18 @@
+.but1{
+    transition: 0.5s;
+    color: blue;
+    height: 200px;
+    width: 700px;
+    font-size: 50px;
+}
+.but1:hover{
+    color: red;
+}
+.but1:active{
+    transform: rotate(360deg);
+    height: 400px;
+    width: 1400px;
+    background-color: black;
+    color: cyan;
+    font-size: 100px;
+}

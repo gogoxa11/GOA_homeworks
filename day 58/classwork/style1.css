@@ -1,0 +1,16 @@
+.main-div{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    animation-name: MyAnimation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes MyAnimation{
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: blue;
+    }
+}
