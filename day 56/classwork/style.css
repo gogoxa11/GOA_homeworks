@@ -1,0 +1,16 @@
+.main-div{
+    height: 600px;
+    width: 600px;
+    background-color: black;
+    color: greenyellow;
+    font-size: 50px;
+    transition: 1s;
+}
+.main-div:hover{
+    height: 1200px;
+    width: 1200px;
+    background-color: blueviolet;
+    color: rgb(234, 120,052);
+    transform: rotate(360deg);
+    
+}

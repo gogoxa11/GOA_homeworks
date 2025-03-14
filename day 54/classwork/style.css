@@ -1,0 +1,72 @@
+.div1{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 0px;
+}
+
+.div2{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 100px;
+}
+
+.div3{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 200px;
+}
+.div4{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 300px;
+}
+.div5{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 400px;
+}
+.div6{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 400px;
+}
+.div7{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 300px;
+}
+.div8{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 200px;
+}
+.div9{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 100px;
+}
+.div10{
+    height: 100px;
+    width: 300px;
+    border: 5px solid red;
+    position: relative;
+    left: 0px;
+}
