@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: red;
+    animation-name: Mybox;
+    animation-duration: 4s;
+    position: relative;
+    animation-iteration-count: infinite;
+}
+@keyframes Mybox{
+    0%{
+        left: 0px; 
+        top: 0px;
+    }
+    25%{
+        left: 50%;
+        top: 0px;
+    }
+    50%{
+        left: 50%;
+        top: 50%;
+    }
+    75%{
+        left: 0px;
+        top: 50%;
+    }
+    100%{
+        left: 0px;
+        top: 0px;
+    }
+}
