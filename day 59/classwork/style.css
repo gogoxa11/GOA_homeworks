@@ -1,0 +1,56 @@
+body{
+    height: 100vh;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: red;
+    font-weight: 600;
+    animation-name: Mybox;
+    animation-duration: 4s;
+    position: relative;
+    animation-iteration-count: infinite;
+}
+@keyframes Mybox{
+    0%{
+        left: 0px; 
+        top: 0px;
+    }
+    25%{
+        left: 50%;
+        top: 0px;
+        background-color: red;
+        color: black;
+        font-size: 30px;
+        height: 300px;
+        width: 300px;
+    }
+    50%{
+        left: 50%;
+        top: 50%;
+        background-color: blueviolet;
+        color: red;
+        font-size: 20px;
+        height: 400px;
+        width: 400px;
+    }
+    75%{
+        left: 0px;
+        top: 50%;
+        background-color: black;
+        color: cyan;
+        font-size: 40px;
+        height: 300px;
+        width: 300px;
+    }
+    100%{
+        left: 0px;
+        top: 0px;
+        background-color: bisque;
+        color: greenyellow;
+        font-size: medium;
+        height: 200px;
+        width: 200px;
+    }
+}
