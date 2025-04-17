@@ -7,4 +7,4 @@ for i in range(120, 500, 3 ):
     if i %7==0:
         print("This number is divisible by seven")
 else:
-            print("This number is not divisible by three, five or seven") M.
+            print("This number is not divisible by three, five or seven") 
