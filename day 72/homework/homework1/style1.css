@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent-div{
+    height: 620px;
+    width: 825px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+    gap: 5px;
+}
+.child-div{
+    background-color: red;
+}
+.div1{
+    background-color: cyan;
+}
+.div2{
+    background-color: orange;
+}
+.div3{
+    background-color: blueviolet;
+}
+.div4{
+    background-color: mediumspringgreen;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent-div{
+    height: 80%;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.34%; 
+    grid-template-rows: 100%;
+    gap: 5px;
+}
+.child-div{
+    background-color: blueviolet;
+}
