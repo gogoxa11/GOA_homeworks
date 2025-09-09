@@ -1,5 +1,5 @@
 .but1{
-    transition: 0.5s;
+    transition: 0.5s all ease;
     color: blue;
     height: 200px;
     width: 700px;

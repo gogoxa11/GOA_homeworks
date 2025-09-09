@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+    transition: 2s all ease ;
+}
+/* img:hover{
+    transform: translateX(500px) translateY(300px) rotateX(360deg);
+} */
+img:active{
+    transform: scale(0.5 , 0.5) rotate(-90deg);
+}
+
