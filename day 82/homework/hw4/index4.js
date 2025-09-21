@@ -2,21 +2,21 @@
 // გამოიტანეთ შედეგი. რაც არ იმუშავებს განმარტეთ რატომ არ მუშაობს.
 
 
-var city = "თბილისი";
-let country = "საქართველო";
-const year = 2025;
+var city = "თბილისი"
+let country = "საქართველო"
+const year = 2025
 
-console.log(city);    
-console.log(country); 
-console.log(year); 
+console.log(city)    
+console.log(country)
+console.log(year)
 
 // 4) ცვლადების განახლება
 
-city = "ბათუმი";
-console.log(city);
+city = "ბათუმი"
+console.log(city)
 
-country = "ინგლისი";
-console.log(country); 
+country = "ინგლისი"
+console.log(country)
 
 // const year = 2026;-error
 
