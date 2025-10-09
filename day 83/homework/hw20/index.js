@@ -1,3 +1,5 @@
+// მომხმარებელს შემოატანინე 3 რიცხვი. თუ ამ სამი რიცხვის ჯამი იქნება ლუწი. მაშინ მათი საშუალო არითმეტიკული დააბრუნეთ. 
+// სხვა შემთხვევაში 2-ზე გაამრავლეთ
 let num1 = Number(prompt("Enter the first number:"))
 let num2 = Number(prompt("Enter the second number:"))
 let num3 = Number(prompt("Enter the third number:"))

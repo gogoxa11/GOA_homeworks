@@ -3,10 +3,10 @@ let num1 = Number(prompt("enter a number:"))
 if (num1 % 3 === 0) {
     alert(num1 + " " + "can be divided by 3")
 }
-if (num1 % 3 === 1) {
+else if(num1 % 3 === 1) {
     alert(num1 + " " + "can't be divided by 3")
 }
-if (num1 % 3 === 2) {
+else if(num1 % 3 === 2) {
     alert(num1 + " " + "can't be divided by 3")
 }
 else{
